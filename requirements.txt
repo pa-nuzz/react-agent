@@ -1,0 +1,9 @@
+# Core LangChain dependencies
+langchain>=1.2.0
+langchain-core>=1.2.0
+langchain-openai>=1.1.0
+langchain-anthropic>=1.4.0
+
+# Additional dependencies
+python-dotenv>=1.0.0
+typing-extensions>=4.0.0
