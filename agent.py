@@ -116,7 +116,7 @@ def main():
         "Tell me about Nepali culture"
     ]
     
-    print("ReAct-Style Agent - Nepal Edition")
+    print("ReAct-Style Agent")
     print("=" * 40)
     
     for i, test_case in enumerate(test_cases, 1):
